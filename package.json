@@ -1,5 +1,5 @@
 {
-  "name": "thresh-lib",
+  "name": "clia-thresh-lib",
   "version": "1.3.55",
   "description": "Front-end framework for Thresh",
   "main": "index.ts",
